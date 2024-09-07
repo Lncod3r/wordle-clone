@@ -20,7 +20,6 @@
       else if (key === "Enter") handleEnter();
       if (key === "Backspace") {
         handelCancel();
-        console.log("asdas");
       }
     });
 
