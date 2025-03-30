@@ -1,0 +1,14 @@
+{
+  "name": "Verble",
+  "description": "Enjoy wordle with latin words",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/favicon.webp",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
