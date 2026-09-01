@@ -4,9 +4,9 @@
   import { Confetti } from "svelte-confetti";
   import toast from "svelte-french-toast";
 
-  export let data;
-  const word = data.word;
-  let guesses: any[] = [];
+  export let data
+  const word = data.word
+  let guesses: any[] = []
   let guess_row = 0;
 
   let win: any = null;
